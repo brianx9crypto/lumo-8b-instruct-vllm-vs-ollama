@@ -31,6 +31,13 @@ docker run --gpus all \
   vllm-gguf
 ```
 
+- Benchmark
+```bash
+python -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+python src/test_model.py
+```
 
 ### Roadmap -
 
