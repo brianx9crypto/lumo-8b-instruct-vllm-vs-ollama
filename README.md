@@ -43,4 +43,4 @@ python src/test_model.py
 
 - [ ] More optimizations to Docker image
 - [ ] Image on Docker hub
-- [ ] Serverless configuration
+- [ ] Serverless configuration (on runpod, koyeb etc).
