@@ -13,7 +13,7 @@
 ### How to setup?
 
 - Get nvidia L40S or above GPU instance
-- Ubuntu VM preffered
+- Ubuntu VM preferred
   - Install [Docker](https://docs.docker.com/engine/install/ubuntu/), nVidia-cuda drivers, [nvidia tool kit](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/latest/install-guide.html)
 - Install Ollama (for comparison or to reproduce these tests)
 
