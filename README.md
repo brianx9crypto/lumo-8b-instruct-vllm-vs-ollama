@@ -15,7 +15,7 @@
 - Get nvidia L40S or above GPU instance
 - Ubuntu VM preferred
   - Install [Docker](https://docs.docker.com/engine/install/ubuntu/), nVidia-cuda drivers, [nvidia tool kit](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/latest/install-guide.html)
-- Install Ollama (for comparison or to reproduce these tests)
+- Install [Ollama](https://ollama.com/download/linux) (optional; for comparison or to reproduce these tests)
 
 ```bash
 cd src
